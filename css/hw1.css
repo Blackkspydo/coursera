@@ -135,7 +135,7 @@ main{
 .right td{
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
-  padding: 3px;
+  padding: 3.1px;
   text-align: center;
 }
 .right td:first-child{
